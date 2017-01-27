@@ -1,0 +1,29 @@
+[{
+    "ID":"1",
+    "NAME":"madhu",
+    "AGE":"24",
+    "ADDRESS":"Dallas",
+    "SALARY": "10000"
+},
+{
+    "ID":"2",
+    "NAME":"madhu2",
+    "AGE":"242",
+    "ADDRESS":"Dallas2",
+    "SALARY": "100002"
+},
+{
+    "ID":"3",
+    "NAME":"madhu3",
+    "AGE":"243",
+    "ADDRESS":"Dallas3",
+    "SALARY": "100003"
+},
+{
+    "ID":"4",
+    "NAME":"madhu4",
+    "AGE":"244",
+    "ADDRESS":"Dallas4",
+    "SALARY": "100004"
+}
+]
